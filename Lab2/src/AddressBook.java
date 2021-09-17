@@ -2,7 +2,7 @@ import java.util.*;
 
 public class AddressBook {
 
-    static ArrayList<BuddyInfo>  list=new ArrayList<BuddyInfo>();
+    static ArrayList<BuddyInfo> list = new ArrayList<>();
 
     public static void addBuddy(BuddyInfo buddy_info_obj) {
         list.add(buddy_info_obj);
@@ -13,19 +13,21 @@ public class AddressBook {
     }
 
     public static void main(String[] args) {
-        System.out.println("Address Book");
+        BuddyInfo buddy = new BuddyInfo("Tom", "Carleton", "613");
+        AddressBook addressBook = new AddressBook();
+        addressBook.addBuddy(buddy);
+        addressBook.removeBuddy(buddy);
+        //BuddyInfo marge = new BuddyInfo();
+        //BuddyInfo homer = new BuddyInfo("Homer", "742 Evergreen Terrace, Springfield", "555-1111" );
+        //BuddyInfo bart = new BuddyInfo("Bart", "742 Evergreen Terrace, Springfield", "555-2222" );
+        //BuddyInfo lisa = new BuddyInfo("Lisa", "742 Evergreen Terrace, Springfield", "555-3333" );
+        //BuddyInfo maggie = new BuddyInfo("Maggie", "742 Evergreen Terrace, Springfield", "555-4444" );
 
-        BuddyInfo marge = new BuddyInfo();
-        BuddyInfo homer = new BuddyInfo("Homer", "742 Evergreen Terrace, Springfield", "555-1111" );
-        BuddyInfo bart = new BuddyInfo("Bart", "742 Evergreen Terrace, Springfield", "555-2222" );
-        BuddyInfo lisa = new BuddyInfo("Lisa", "742 Evergreen Terrace, Springfield", "555-3333" );
-        BuddyInfo maggie = new BuddyInfo("Maggie", "742 Evergreen Terrace, Springfield", "555-4444" );
-
-        addBuddy(marge);
-        addBuddy(homer);
-        System.out.println(list);
-        removeBuddy(homer);
-        System.out.println(list);
+        //addBuddy(marge);
+        //addBuddy(homer);
+        //System.out.println(list);
+        //removeBuddy(homer);
+        //System.out.println(list);
         //list.add(homer);
         //list.add(bart);
         //list.add(marge);
@@ -33,5 +35,5 @@ public class AddressBook {
         //list.add(maggie);
         //System.out.println(list);
         //System.out.println(marge.getName());
+        }
     }
-}

@@ -23,6 +23,7 @@ public class AddressBook {
         //BuddyInfo lisa = new BuddyInfo("Lisa", "742 Evergreen Terrace, Springfield", "555-3333" );
         //BuddyInfo maggie = new BuddyInfo("Maggie", "742 Evergreen Terrace, Springfield", "555-4444" );
 
+        // NEW BRANCH
         //addBuddy(marge);
         //addBuddy(homer);
         //System.out.println(list);

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3c2656c-49e1-459f-8974-b1452c683f02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab3/zuul-bad/out/production/zuul-bad/zuul-bad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/zuul-bad/zuul-bad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/zuul-better/zuul-better.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3b/Lab3b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/Lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/Lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5/src/AddressBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5/src/BuddyInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5/src/labGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/src/TicTacToeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/src/TicTacToeEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/src/TicTacToeFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/src/TicTacToeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/src/TicTacToeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/test/TicTacToeModelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab1/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab2/AddressBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab2/BuddyInfo.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zYKhwgeIxQfIIlv1XD75b3HhyJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sysc3110_monopoly" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.labGui">
+    <configuration name="AddressBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddressBook" />
+      <module name="Lab7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuddyInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuddyInfo" />
+      <module name="Lab7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="labGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labGui" />
+      <module name="Lab7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.labGui" />
+        <item itemvalue="Application.AddressBook" />
+        <item itemvalue="Application.BuddyInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3c2656c-49e1-459f-8974-b1452c683f02" name="Changes" comment="" />
+      <created>1634319705596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634319705596</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

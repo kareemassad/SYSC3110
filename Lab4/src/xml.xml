@@ -1,0 +1,8 @@
+ <course> 
+	<code>SYSC3110</code> 
+	<prof>Babak</prof> 
+	<class> 
+		<student>Michael</student> 
+		<student>Alan</student> 
+	</class> 
+ </course>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<project name="Hello" default="print message">
+    <target name="print message">
+        <echo message="Hello from Ant!"/>
+    </target>
+    <target name="packaging">
+        <echo message="Creating class files"/>
+        <javac srcdir="src" destdir="out-test" source="1.8" target="1.8"/>
+
+        <echo message="Creating jar file"/>
+        <jar destfile="testing.jar">
+            <fileset dir="src/main/java"/>
+            <fileset dir="out-test"/>
+            <manifest>
+                <attribute name="Main-Class"
+                           value="labGui"/>
+            </manifest>
+        </jar>
+    </target>
+</project>

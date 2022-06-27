@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addressbook>
+    <buddy1>
+        <name>John Doe</name>
+        <number>12312415245</number>
+        <address>111 road</address>
+    </buddy1>
+    <buddy2>
+        <name>Lameo Doe</name>
+        <number>124238255</number>
+        <address>111 road</address>
+    </buddy2>
+</addressbook>

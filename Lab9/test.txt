@@ -1,2 +1,0 @@
-name1, addy1, num1   
-name2, addy2, num2   
